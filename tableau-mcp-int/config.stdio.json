@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "tableau": {
+      "command": "node",
+      "args": ["/Users/<YOUR_DIRECTORY_TO_INDEX_JS>/tableau-mcp/build/index.js"],
+      "env": {
+        "TRANSPORT": "stdio",
+        "SERVER": "https://10ax.online.tableau.com/",
+        "SITE_NAME": "<YOUR_SITE_NAME>",
+        "PAT_NAME": "<YOUR_PAT_NAME>",
+        "PAT_VALUE": "<YOUR_PAT_SECRET_VALUE>",
+        "DATASOURCE_CREDENTIALS": "",
+        "DEFAULT_LOG_LEVEL": "debug",
+        "INCLUDE_TOOLS": "",
+        "EXCLUDE_TOOLS": "",
+        "MAX_RESULT_LIMIT": "",
+        "DISABLE_QUERY_DATASOURCE_FILTER_VALIDATION": "",
+        "DISABLE_METADATA_API_REQUESTS": ""
+      }
+    }
+  }
+}
