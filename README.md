@@ -12,7 +12,7 @@
 - Ask AI to get the insights from Tableau Cloud
 
 ### Solution Video
-[![DDQ_2025_11](https://img.youtube.com/vi/e16uv7AnDqE/0.jpg)](https://www.youtube.com/watch?v=e16uv7AnDqE)
+[![DDQ_2025_11](https://img.youtube.com/vi/fAPS79ITRjA/0.jpg)](https://www.youtube.com/watch?v=fAPS79ITRjA)
 
 ### Beginner Challenge
 Link to the Beginner Challenge: https://datadevquest.com/ddq2025-11-tableau-mcp-with-claude-desktop-beginner/
